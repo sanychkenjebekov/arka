@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+body{
+    font-family: Roboto sans-serif;
+    background: #EEEEEE;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 30%;
+}
+.menu a {
+    font-size: 14px;
+    letter-spacing: 2px;
+    color: #011F3A;
+    text-decoration: none;
+}
+.basket{
+    display: flex;
+    align-items: center;
+}
+.basket a{
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 14px;
+    letter-spacing: 2px;
+    color: #011F3A;
+}
+.hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#hero{
+    background: #F2AE4D;
+    padding: 50px 0 0 0;
+}
+.heroTitle{
+    font-size: 48px;
+    line-height: 56px;
+    color: #011F3A;
+}
+.heroDesc{
+    font-size: 15px;
+    line-height: 24px;
+    color: #011F3A;
+    margin: 50px 0 30px 0;
+}
+.heroBtn{
+    font-size: 14px;
+    letter-spacing: 1.96px;
+    color: #FFFFFF;
+    background: #3D5675;
+    border-radius: 44px;
+    padding: 15px 20px;
+    border: none;
+}
+.miniMenu{
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+    letter-spacing: 0.6px;
+    color: #A1A1A1;
+}
+.miniMenu p{
+    width: 90%;
+   display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.c2m{
+    font-size: 32px;
+    color: #011F3A;
+}
+.c2Btn{
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 1.96px;
+    color: #FFFFFF;
+    background: #3D5675;
+    border-radius: 44px;
+    border: none;
+    padding: 10px 15px;
+}
+.heroC2m{
+    display: flex;
+   justify-content: space-between;
+}
+.obshiy{
+    background: #FFFFFF;
+}
+.heroC2{
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.heroC2 h4{
+    margin: 0 50px;
+    font-size: 18px;
+    letter-spacing: 0.36px;
+    color: #011F3A;
+}
+.heroC2 p{
+    margin: 0 50px;
+    font-size: 15px;
+    color: #777777;
+}
+.c2Foot{
+    margin: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.c2Fm{
+    font-size: 15px;
+    color: #A1A1A1;
+}
+.c2Fbtn{
+    font-size: 12px;
+    letter-spacing: 1.96px;
+    color: #3D5675;
+    background: #FFFFFF;
+    border-radius: 44px;
+    border: none;
+    padding: 10px 15px;
+    margin-left: -400px;
+}
+.sena{
+    margin-left: 250px;
+    margin-top: -50px;
+}
+.sena2{
+    margin-left: 250px;
+}
+.hero3{
+    background: #72BDA3;
+}
+.fae{
+    background: #72BDA3;
+}
+.faeHero{
+    padding: 70px;
+    display: flex;
+    justify-content:center ;
+    font-size: 20px;
+    color: #011F3A;
+}
+.faeimg{
+    display: flex;
+    justify-content: space-around;
+}
+.faeimg h4{
+    margin: 0 100px;
+    font-size: 18px;
+    color: #011F3A;
+}
+.faeimg p{
+    margin: 0 80px;
+    font-size: 15px;
+    color: #3D5675
+}
+.faeBtn{
+    font-size: 14px;
+    color: #FFFFFF;
+    background: #3D5675;
+    border-radius:44px;
+    border: none;
+    padding: 10px 15px;
+    margin: 50px;
+}
+.thearka{
+    padding: 100px;
+    }
+.thearka h1{
+    margin: 50px;
+}
+.theTitle{
+    margin-left: 10px;
+    font-size: 20px;
+    color: #011F3A;
+}
+.theObw{
+display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.theObw h4{
+    font-size: 18px;
+    color: #011F3A
+}
+.theObw p{
+    font-size: 15px;
+    color: #A1A1A1;
+}
